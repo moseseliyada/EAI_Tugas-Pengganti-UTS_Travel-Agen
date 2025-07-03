@@ -1,22 +1,5 @@
 Travel Agent Integrated System
 
-## Daftar Isi
-
-- [Anggota Kelompok](#anggota-kelompok)
-- [Arsitektur Sistem](#arsitektur-sistem)
-- [Daftar Layanan](#daftar-layanan)
-- [API Documentation](#api-documentation)
-- [Komunikasi Antar Layanan](#komunikasi-antar-layanan)
-- [Relasi Database](#relasi-database)
-
-## Anggota Kelompok
-
-1. Ferdian Surya Wibowo - 120222067
-2. I Komang Sadewa Cahya Sumidra -1202220086
-3. Devi Hermina Silaban - 1202223188
-4. Ardhava Fathi Rafi - 1202223142
-5. Moses Eliyada Tambunan - 1202220256
-
 ## Arsitektur Sistem
 
 +-------------+ +-------------+ +-------------+
@@ -110,10 +93,6 @@ Travel Agent Integrated System
     - Foreign key `user_id` merujuk ke `users_travels`
     - Foreign key `ticket_id` merujuk ke `tickets`
   - Setiap order harus terhubung ke 1 user dan 1 tiket
-
-## Link Demo API
-
-Video Demo :[ Video Demo Tugas Pengganti UTS IAE Kelompok 6](https://youtu.be/fOsdQQM5bLw)
 
 ## Kesimpulan
 
